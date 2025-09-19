@@ -28,4 +28,4 @@ This repository documents my hands-on labs, projects, and write-ups in cybersecu
 - CompTIA Security+, Network+, A+  
 - Pursuing CySA+ and a Bachelor's in Cybersecurity & Networking (Nov 2027)  
 
-📫 Connect with me on [LinkedIn](https://linkedin.com)
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/shomoi-francis-052b0b131)

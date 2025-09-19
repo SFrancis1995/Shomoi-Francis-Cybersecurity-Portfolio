@@ -1,7 +1,7 @@
 # Shomoi's Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio!  
-I’m a Computer Support Administrator for the U.S. Air Force, CompTIA Security+ certified, and currently preparing for the CySA+.  
+I’m a Computer Support Administrator for the U.S. Air Force, CompTIA Security+ certified, and currently preparing for the CySA+ exam.  
 This repository documents my hands-on labs, projects, and write-ups in cybersecurity.  
 
 ---

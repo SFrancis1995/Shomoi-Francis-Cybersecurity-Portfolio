@@ -7,7 +7,7 @@ This repository documents my hands-on labs, projects, and write-ups in cybersecu
 ---
 
 ## 🔹 Featured Projects
-- [Performing Incident Response](./Performing-Incident-Response)
+- [Performing Incident Response](./Greenboone-Security-Assistant-Scan)
 - [Wireshark ICMP Analysis](./Wireshark-ICMP-Analysis)
 - [Nessus Vulnerability Scan](./Nessus-Vulnerability-Scan)
 - [Splunk Log Analysis](./Splunk-Log-Analysis)

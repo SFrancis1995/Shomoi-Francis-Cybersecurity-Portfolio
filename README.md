@@ -13,8 +13,6 @@ This repository documents my hands-on labs, projects, and write-ups in cybersecu
 
 ## 🔹 Skills Demonstrated
 - Vulnerability Management (Nmap, Nessus)
-- Network Traffic Analysis (Wireshark)
-- Security Monitoring (Splunk/ELK)
 - Incident Detection & Response
 - Risk Assessment & Reporting
 

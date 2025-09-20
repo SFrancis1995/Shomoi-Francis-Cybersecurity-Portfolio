@@ -34,4 +34,4 @@ You can view the report in two formats:
 - CompTIA Security+, Network+, A+  
 - Pursuing CySA+ and a Bachelor's in Cybersecurity & Networking (Nov 2027)  
 
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/shomoi-francis-052b0b131)
+📫 Connect with me on [LinkedIn](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>)

@@ -15,6 +15,17 @@ This repository documents my hands-on labs, projects, and write-ups in cybersecu
 - Vulnerability Management (Nmap, Nessus)
 - Incident Detection & Response
 - Risk Assessment & Reporting
+  
+---
+
+## 🔹 Security Event and Incident Report
+
+This project demonstrates incident reporting and documentation skills following a structured approach.  
+You can view the report in two formats:
+
+- [📖 View Online (Markdown)](./Security_Event_and_Incident_Report_Shomoi_Francis.md)  
+- [📄 Download Full Report (PDF)](./Security_Event_and_Incident_Report_Shomoi_Francis.pdf)  
+
 
 ---
 

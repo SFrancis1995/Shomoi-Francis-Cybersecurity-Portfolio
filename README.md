@@ -8,10 +8,6 @@ This repository documents my hands-on labs, projects, and write-ups in cybersecu
 
 ## 🔹 Featured Projects
 - [Nmap to Detect and Bypass Firewall Restrictions](./Use-Nmap-To-Detect-And-Bypass-Firewall-Restrictions)
-- [Wireshark ICMP Analysis](./Wireshark-ICMP-Analysis)
-- [Nessus Vulnerability Scan](./Nessus-Vulnerability-Scan)
-- [Splunk Log Analysis](./Splunk-Log-Analysis)
-- [Incident Response Playbook Execution](./Incident-Response-Playbook-Execution) 
 
 ---
 

@@ -38,3 +38,4 @@ By comparing standard scans with evasion scans, it became clear that firewalls a
 ## Screenshots
 <img width="1212" height="768" alt="Screenshot 2025-09-19 192123" src="https://github.com/user-attachments/assets/67f9e5dc-33d4-49a0-9074-760b72a0e46a" />
 <img width="1549" height="1134" alt="Screenshot 2025-09-19 194024" src="https://github.com/user-attachments/assets/f194503b-6b83-4cfd-b262-22fae6ac24ae" />
+<img width="1212" height="768" alt="Screenshot 2025-09-19 192123" src="https://github.com/user-attachments/assets/78722567-66bc-48d0-b3c4-ca86586b0d65" />

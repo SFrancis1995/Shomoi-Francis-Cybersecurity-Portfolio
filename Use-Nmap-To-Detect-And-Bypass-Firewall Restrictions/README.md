@@ -1,4 +1,4 @@
-# Nmap Scan Internal Network
+# Nmap to Detect and Bypass Firewall Restrictions
 
 ## Objective
 

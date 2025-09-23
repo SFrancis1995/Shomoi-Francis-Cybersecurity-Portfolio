@@ -12,7 +12,7 @@ This repository documents my hands-on labs, projects, and write-ups in cybersecu
 ---
 
 ## 🔹 Skills Demonstrated
-- Vulnerability Management (Nmap, Nessus)
+- Vulnerability Management (Nmap)
 - Incident Detection & Response
 - Risk Assessment & Reporting
   

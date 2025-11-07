@@ -84,11 +84,17 @@ It also reinforced how **basic firewall management and protocol configuration ca
 
 ## 🧱 Screenshot Placeholder
 
-*(Add screenshots of your Zenmap scan results and Windows Firewall rules here when publishing.)*
+Here's some screenshots from my Zenmap scan and Windows Firewall configuration:
 
 ```markdown
-![Zenmap Scan Result](images/zenmap_scan_result.png)
-![Windows Firewall Rules](images/firewall_rules.png)
+![Zenmap Scan Result](images/Screenshot 2025-11-06 201032.png)
+![Zenmap Scan Result](images/Screenshot 2025-11-06 201049.png)
+![Zenmap Scan Result](images/Screenshot 2025-11-06 201108.png)
+![Zenmap Scan Result](images/Screenshot 2025-11-06 201224.png)
+![Zenmap Scan Result](images/Screenshot 2025-11-06 201311.png)
+![Zenmap Scan Result](images/Screenshot 2025-11-06 201423.png)
+![Zenmap Scan Result](images/Screenshot 2025-11-06 201545.png)
+![Zenmap Scan Result](images/Screenshot 2025-11-06 201827.png)
 ```
 
 ---

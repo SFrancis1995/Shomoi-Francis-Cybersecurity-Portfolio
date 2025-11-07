@@ -101,9 +101,9 @@ Here's some screenshots from my Zenmap scan and Windows Firewall configuration:
 
 ## 📁 Files in This Project
 
-- `Network Scanning & Mapping Lab.docx` — Original report write-up  
-- `Network_Scanning_and_Mapping_Lab_Report_Shomoi.pdf` — Polished PDF version  
-- `Network-Scanning-and-Mapping-Lab.md` — GitHub Portfolio Page (this file)
+-  [📄 Network Scanning and Mapping Lab (PDF)](./Files/Network%20Scanning%20and%20Mapping_Lab.pdf) – Polished PDF version
+
+  
 
 ---
 

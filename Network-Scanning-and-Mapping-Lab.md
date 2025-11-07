@@ -86,7 +86,7 @@ It also reinforced how **basic firewall management and protocol configuration ca
 
 Here's some screenshots from my Zenmap scan and Windows Firewall configuration:
 
-```markdown
+
 ![Zenmap Scan Result](images/Screenshot 2025-11-06 201032.png)
 ![Zenmap Scan Result](images/Screenshot 2025-11-06 201049.png)
 ![Zenmap Scan Result](images/Screenshot 2025-11-06 201108.png)
@@ -95,7 +95,7 @@ Here's some screenshots from my Zenmap scan and Windows Firewall configuration:
 ![Zenmap Scan Result](images/Screenshot 2025-11-06 201423.png)
 ![Zenmap Scan Result](images/Screenshot 2025-11-06 201545.png)
 ![Zenmap Scan Result](images/Screenshot 2025-11-06 201827.png)
-```
+
 
 ---
 

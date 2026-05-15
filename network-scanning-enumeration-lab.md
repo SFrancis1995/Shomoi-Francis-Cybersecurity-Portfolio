@@ -194,7 +194,7 @@ nmap --script vuln 192.168.50.211
 
 ## Vulnerability Scan Screenshot
 
-![Nmap Vulnerability Scan](network-scanning-enumeration-lab/screenshots/Vulnerability-Scan.png)
+![Nmap Vulnerability Scan](network-scanning-enumeration-lab/screenshots/validation-scan.png)
 
 ## Scan Results
 

@@ -9,7 +9,7 @@ This repository documents my hands-on labs, projects, and write-ups in cybersecu
 ## 🔹 Featured Projects
 - [Nmap to Detect and Bypass Firewall Restrictions](./Use-Nmap-To-Detect-And-Bypass-Firewall-Restrictions)
 - [Network Scanning and Mapping Lab](./Network-Scanning-and-Mapping-Lab.md)
-- [Network Scanning and Service Enumeration Lab](./network-scanning-enumeration-lab-md)
+- [Network Scanning and Service Enumeration Lab](./Network-Scanning-Enumeration-Lab-md)
 
 ---
 

@@ -4,6 +4,9 @@ title: About
 ---
 
 # About Me
+<div class="profile-container">
+  <img src="{{ 'images/Portrait.png' | relative_url }}" alt="Shomoi Francis" class="profile-pic">
+</div>
 
 I am a cybersecurity and IT professional with hands on experience supporting enterprise Windows environments, troubleshooting systems, and performing security focused technical operations within the United States Air Force environment. My background includes system administration, endpoint support, vulnerability assessment, network troubleshooting, and security hardening across NIPR and SIPR environments.
 

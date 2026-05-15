@@ -1,0 +1,97 @@
+body {
+    background-color: #0f172a;
+    color: #e5e7eb;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: linear-gradient(90deg, #020617, #111827);
+    padding: 18px;
+    border-bottom: 3px solid #38bdf8;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.navbar a {
+    color: #e5e7eb;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.navbar a:hover {
+    color: #38bdf8;
+}
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+    padding: 30px;
+}
+
+h1, h2, h3 {
+    color: #38bdf8;
+}
+
+.project-card {
+    background-color: #1e293b;
+    padding: 25px;
+    margin-top: 25px;
+    border-radius: 12px;
+    border-left: 5px solid #38bdf8;
+    box-shadow: 0 0 12px rgba(0,0,0,0.4);
+}
+
+.project-card h3 {
+    margin-top: 0;
+}
+
+.project-card a {
+    color: #38bdf8;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project-card a:hover {
+    color: white;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #334155;
+}
+
+th {
+    background-color: #1e293b;
+    color: #38bdf8;
+}
+
+td, th {
+    padding: 12px;
+}
+
+code {
+    background-color: #1e293b;
+    padding: 3px 6px;
+    border-radius: 4px;
+}
+
+pre {
+    background-color: #020617;
+    padding: 15px;
+    border-radius: 10px;
+    overflow-x: auto;
+}

@@ -1,7 +1,7 @@
 # Shomoi's Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio!  
-I’m a Computer Support Administrator for the U.S. Air Force, CompTIA Security+ certified, and currently preparing for the CySA+ exam.  
+I’m a Computer Support Administrator for the U.S. Air Force, CompTIA CYSA+, Security+, Network+ and A+ certified.
 This repository documents my hands-on labs, projects, and write-ups in cybersecurity.  
 
 ---
@@ -9,6 +9,7 @@ This repository documents my hands-on labs, projects, and write-ups in cybersecu
 ## 🔹 Featured Projects
 - [Nmap to Detect and Bypass Firewall Restrictions](./Use-Nmap-To-Detect-And-Bypass-Firewall-Restrictions)
 - [Network Scanning and Mapping Lab](./Network-Scanning-and-Mapping-Lab.md)
+- [Network Scanning and Service Enumeration Lab](./network-scanning-enumeration-lab-md)
 
 ---
 
@@ -16,6 +17,16 @@ This repository documents my hands-on labs, projects, and write-ups in cybersecu
 - Vulnerability Management (Nmap)
 - Incident Detection & Response
 - Risk Assessment & Reporting
+- Network Scanning
+- Service Enumeration
+- Windows Attack Surface Analysis
+- Firewall Rule Review
+- SMB Security Analysis
+- RDP Exposure Review
+- Basic Vulnerability Assessment
+- Security Documentation
+- Remidiation Planning
+- Validation Scanning
   
 ---
 
@@ -32,7 +43,7 @@ You can view the report in two formats:
 
 ## 🔹 About Me
 - Computer Support Administrator | U.S. Air Force  
-- CompTIA Security+, Network+, A+  
-- Pursuing CySA+ and a Bachelor's in Cybersecurity & Networking (Nov 2027)  
+- CompTIA CySA+, Security+, Network+, A+  
+- Pursuing a Bachelor's in Cybersecurity & Networking (Nov 2027)  
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shomoi-francis-052b0b131/)

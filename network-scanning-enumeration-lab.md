@@ -159,7 +159,7 @@ tasklist | findstr <PID>
 
 Screenshot:
 
-![Port 8090 Investigation](screenshots/port-8090-investigation.png)
+![Port 8090 Investigation](network-scanning-enumeration-lab/screenshots/port-8090-investigation.png)
 
 Recommended remediation:
 
@@ -178,17 +178,18 @@ nmap -sV 192.168.50.211
 
 Screenshot:
 
-![Nmap Service Version Scan](screenshots/nmap-service-version-scan.png)
+![Nmap Service Version Scan](network-scanning-enumeration-lab/screenshots/nmap-service-version-scan.png)
 
 This helped identify service details that could be useful during vulnerability analysis.
 
 ## Step 9: Run a Vulnerability Script Scan
 
-I used Nmap vulnerability scripts to check for known issues associated with the exposed services.
+To identify potential vulnerabilities associated with exposed services, I performed an Nmap vulnerability assessment scan using the Nmap Scripting Engine (NSE).
+
+I used the following command:
 
 ```cmd
 nmap --script vuln 192.168.50.211
-```
 
 Screenshot:
 

@@ -30,7 +30,7 @@ ipconfig
 
 Screenshot:
 
-![IP Configuration](screenshots/ipconfig.png.png)
+![IP Configuration](screenshots/ipconfig.png)
 
 ## Step 2: Run a Basic Nmap Scan
 

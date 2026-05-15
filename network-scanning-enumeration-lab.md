@@ -128,7 +128,7 @@ Web Services Discovery
 
 Screenshot:
 
-![Firewall Inbound Rules](network-scanning-enumeration-lab/screenshots/SMB related inbound rules.png)
+![Firewall Inbound Rules](network-scanning-enumeration-lab/screenshots/SMB related inbound rules.png) 
 
 Important rules reviewed:
 

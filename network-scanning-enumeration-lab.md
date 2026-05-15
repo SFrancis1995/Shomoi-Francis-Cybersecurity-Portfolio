@@ -42,7 +42,7 @@ nmap 192.168.50.211
 
 Screenshot:
 
-![Nmap Basic Scan](screenshots/nmap-basic-scan.png)
+![Nmap Basic Scan](network-scanning-enumeration-lab/screenshots/nmap-basic-scan.png)
 
 ## Step 3: Analyze Scan Results
 
@@ -73,7 +73,7 @@ Get-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
 
 Screenshot:
 
-![SMBv1 Status](screenshots/smbv1-status.png)
+![SMBv1 Status](network-scanning-enumeration-lab/screenshots/smbv1-status.png)
 
 Recommended remediation:
 
@@ -98,7 +98,7 @@ I verified whether Remote Desktop was enabled and confirmed whether Network Leve
 
 Screenshot:
 
-![Remote Desktop Settings](screenshots/remote-desktop-settings.png)
+![Remote Desktop Settings](network-scanning-enumeration-lab/screenshots/remote-desktop-settings.png)
 
 Recommended remediation:
 
@@ -128,7 +128,7 @@ Web Services Discovery
 
 Screenshot:
 
-![Firewall Inbound Rules](screenshots/firewall-inbound-rules.png)
+![Firewall Inbound Rules](network-scanning-enumeration-lab/screenshots/SMB related inbound rules.png)
 
 Important rules reviewed:
 

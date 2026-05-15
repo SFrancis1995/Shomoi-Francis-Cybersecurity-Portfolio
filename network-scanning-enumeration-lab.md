@@ -182,20 +182,39 @@ Screenshot:
 
 This helped identify service details that could be useful during vulnerability analysis.
 
-## Step 9: Run a Vulnerability Script Scan
+## Step 9: Run an Nmap Vulnerability Scan
 
-To identify potential vulnerabilities associated with exposed services, I performed an Nmap vulnerability assessment scan using the Nmap Scripting Engine (NSE).
+To identify potential vulnerabilities associated with exposed services, I performed an Nmap vulnerability scan using the Nmap Scripting Engine (NSE).
 
 I used the following command:
 
 ```cmd
 nmap --script vuln 192.168.50.211
+```
 
-Screenshot:
+## Vulnerability Scan Screenshot
 
-![Nmap Vulnerability Scan](screenshots/nmap-vulnerability-scan.png)
+![Nmap Vulnerability Scan](network-scanning-enumeration-lab/screenshots/Vulnerability-Scan.png)
 
-This scan helped support basic vulnerability assessment and validation.
+## Scan Results
+
+The scan checked exposed SMB related services for known vulnerabilities and insecure configurations.
+
+Results included:
+
+```text
+smb-vuln-ms10-061: false
+```
+
+This indicated that the system did not appear vulnerable to the Microsoft Print Spooler vulnerability associated with MS10-061.
+
+Additional SMB negotiation errors were returned during the scan:
+
+```text
+Could not negotiate a connection: SMB: Failed to receive bytes: ERROR
+```
+
+This likely occurred because modern Windows SMB security protections prevented older NSE scripts from fully communicating with the service.
 
 ## Findings
 
@@ -203,23 +222,12 @@ This scan helped support basic vulnerability assessment and validation.
 |---|---|---|
 | SMB exposed on port 445 | High | Disable SMBv1 and restrict SMB access |
 | RDP exposed on port 3389 | High | Enable NLA and restrict RDP access |
-| NetBIOS exposed on port 139 | Medium | Limit exposure to trusted networks |
-| RPC exposed on port 135 | Medium | Restrict access where possible |
-| Unknown service on port 8090 | Medium | Identify the process and disable if unnecessary |
-| Multiple filtered ports detected | Low | Firewall filtering appears to be active |
+| Nessus service detected on port 8090 | Low | Restrict access and keep Nessus updated |
+| Multiple filtered ports detected | Low | Firewall filtering appears active |
 
-## Remediation Recommendations
+## Summary
 
-Based on the scan results, I recommended the following hardening steps:
-
-Disable unnecessary services.  
-Disable SMBv1 if enabled.  
-Restrict SMB and RDP access to trusted networks.  
-Keep Windows updated.  
-Review and disable unnecessary inbound firewall rules.  
-Investigate unknown services running on non standard ports.  
-Use strong passwords and Network Level Authentication for RDP.  
-Avoid exposing remote access services directly to the internet.
+This scan demonstrated how Nmap NSE scripts can be used to assess exposed services and identify potential vulnerabilities. Although no confirmed critical SMB vulnerabilities were detected, the scan provided insight into SMB protections, firewall behavior, and attack surface exposure.
 
 ## Validation
 
@@ -233,7 +241,7 @@ The before and after results can be compared to confirm that the system’s atta
 
 Screenshot:
 
-![Validation Scan](screenshots/validation-scan.png)
+![Validation Scan](network-scanning-enumeration-lab/screenshots/validation-scan.png)
 
 ## Skills Demonstrated
 

@@ -30,7 +30,7 @@ ipconfig
 
 Screenshot:
 
-![IP Configuration](network-scanning-enumeration-lab/screenshots/ipconfig.png)
+![IP Configuration](images/ipconfig.png)
 
 ## Step 2: Run a Basic Nmap Scan
 
@@ -42,7 +42,7 @@ nmap 192.168.50.211
 
 Screenshot:
 
-![Nmap Basic Scan](network-scanning-enumeration-lab/screenshots/nmap-basic-scan.png)
+![Nmap Basic Scan](images/nmap-basic-scan.png)
 
 ## Step 3: Analyze Scan Results
 
@@ -73,7 +73,7 @@ Get-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
 
 Screenshot:
 
-![SMBv1 Status](network-scanning-enumeration-lab/screenshots/smbv1-status.png)
+![SMBv1 Status](images/smbv1-status.png)
 
 Recommended remediation:
 
@@ -98,7 +98,7 @@ I verified whether Remote Desktop was enabled and confirmed whether Network Leve
 
 Screenshot:
 
-![Remote Desktop Settings](network-scanning-enumeration-lab/screenshots/remote-desktop-settings.png)
+![Remote Desktop Settings](images/remote-desktop-settings.png)
 
 Recommended remediation:
 
@@ -128,7 +128,7 @@ Web Services Discovery
 
 Screenshot:
 
-![Firewall Inbound Rules](network-scanning-enumeration-lab/screenshots/SMB-related-inbound-rules.png) 
+![Firewall Inbound Rules](images/SMB-related-inbound-rules.png) 
 
 Important rules reviewed:
 
@@ -159,7 +159,7 @@ tasklist | findstr <PID>
 
 Screenshot:
 
-![Port 8090 Investigation](network-scanning-enumeration-lab/screenshots/port-8090-investigation.png)
+![Port 8090 Investigation](images/port-8090-investigation.png)
 
 Recommended remediation:
 
@@ -178,7 +178,7 @@ nmap -sV 192.168.50.211
 
 Screenshot:
 
-![Nmap Service Version Scan](network-scanning-enumeration-lab/screenshots/nmap-service-version-scan.png)
+![Nmap Service Version Scan](images/nmap-service-version-scan.png)
 
 This helped identify service details that could be useful during vulnerability analysis.
 
@@ -194,7 +194,7 @@ nmap --script vuln 192.168.50.211
 
 ## Vulnerability Scan Screenshot
 
-![Nmap Vulnerability Scan](network-scanning-enumeration-lab/screenshots/Vulnerability-Scan.png)
+![Nmap Vulnerability Scan](images/Vulnerability-Scan.png)
 
 ## Scan Results
 
@@ -241,7 +241,7 @@ The before and after results can be compared to confirm that the system’s atta
 
 Screenshot:
 
-![Validation Scan](network-scanning-enumeration-lab/screenshots/validation-scan.png)
+![Validation Scan](images/validation-scan.png)
 
 ## Skills Demonstrated
 

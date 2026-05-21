@@ -1,9 +1,3 @@
----
-layout: page
-title: SMB Enumeration and Anonymous Share Access
-permalink: /labs/smb-enumeration-anonymous-access/
----
-
 # SMB Enumeration and Anonymous Share Access
 
 ## Lab Overview

@@ -8,9 +8,9 @@ This repository documents my hands-on labs, projects, and write-ups in cybersecu
 
 ## 🔹 Featured Projects
 - [Nmap to Detect and Bypass Firewall Restrictions](./labs/detect-bypass-firewall-lab)
-- [Network Scanning and Mapping Lab](./labs/network-scanning-and-mapping-lab.md)
-- [Network Scanning and Service Enumeration Lab](./labs/network-scanning-enumeration-lab.md)
-- [SMB Enumeration and Anonymous Share Access](./labs/smb-enumeration-anonymous-access.md)
+- [Network Scanning and Mapping Lab](./labs/network-scanning-lab)
+- [Network Scanning and Service Enumeration Lab](./labs/netwrok-scan-enumeration-lab)
+- [SMB Enumeration and Anonymous Share Access](./labs/smb-enumeration-lab)
 
 ---
 
